@@ -4,4 +4,4 @@
 - Тестовые файлы находятся в папке `Тестовые_файлы`.
 
 
-![](https://komarev.com/ghpvc/?username=Elizavett-a)
+![](https://komarev.com/ghpvc/?username=Elizavett-a?id=TI_4)
